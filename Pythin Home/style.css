@@ -1,0 +1,144 @@
+.rebourt{
+    background-color: rgb(255, 0, 179);
+    padding: 16px;
+    margin: 5px;
+    font-size: 20px;
+    height: fit-content;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    text-align: right;
+    font-family: "Anton", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+button{
+    background-color: rgb(255, 255, 255);
+    font-weight: bolder;
+    font-size: 15px;
+    padding: 10px;
+    cursor: pointer;
+    box-shadow: 4px 2px 2px 1px rgba(255, 255, 255, 0.075);
+    border: 1px solid #ffffff;
+    box-shadow: 4px 2px 2px 2px rgba(0, 0, 0, 0.313);
+}
+
+section{
+    text-align: center;
+    padding: 70px;
+    font-size: 10px;
+    border-radius: 12px;
+    margin: 12px;
+    width: fit-content;
+    background-color: hwb(166 0% 46%);
+    font-size: 80px;
+}
+
+strong {font-size: 20px; font-family: "Anton", serif;font-weight: 400;font-style: normal;}
+
+.html{text-decoration: none;
+    padding: 70px;
+    background-color: #ffffff; 
+    box-shadow: 4px 4px 4px 4px rgb(0, 0, 0);
+    border-radius: 8px;
+    margin: 20px;
+    font-size: 45px;
+    color: orange;
+}
+
+header{
+    font-size: 30px;
+    background-color: #ffcb7e;
+    width: 850px;
+    padding: 15px;
+    border-radius: 12px;
+    font-weight: bolder;
+    box-shadow: 8px 3px 3px 3px rgba(0, 0, 0, 0.301);
+}
+
+.python{
+    text-decoration: none;
+    color: blue;
+    padding: 70px;
+    background-color: #ffffff;
+    box-shadow: 4px 4px 4px 4px rgb(0, 0, 0);
+    border-radius: 8px;
+    margin: 20px;
+    font-size: 45px;
+}
+
+hr{
+    padding: 2px;
+    margin: 4px;
+    font-size: 25px;
+    color: black;
+    background-color: rgba(0, 0, 0, 0.514);
+    border-radius: 20px;
+}
+
+.c{
+    text-decoration: none;
+    padding: 70px;
+    background-color: #ffffff;
+    color: blueviolet;
+    box-shadow: 4px 4px 4px 4px rgb(0, 0, 0);
+    border-radius: 8px;
+    margin: 20px;
+    font-size: 45px;
+}
+
+.js{
+    text-decoration: none;
+    padding: 70px;
+    background-color: #ffffff;
+    box-shadow: 4px 4px 4px 4px rgb(0, 0, 0);
+    color: yellow;
+    border-radius: 8px;
+    margin: 20px;
+    font-size: 45px;
+}
+
+
+.css{
+    text-decoration: none;
+    padding: 70px;
+    background-color: #ffffff;
+    box-shadow: 4px 4px 4px 4px rgb(0, 0, 0);
+    border-radius: 8px;
+    margin: 20px;
+    font-size: 45px;
+    color: blue;
+}
+
+div{
+    text-align: center;
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+.section{
+    padding: 15px;
+}
+
+h4{font-size: 10px; color: black;}
+
+.ll{
+    cursor: pointer;
+    padding: 35px;
+    width: 42.99%;
+    border-radius: 10px;
+}
+
+.kk{
+    cursor: pointer;
+    padding: 35px;
+    border-radius: 10px;
+    width: 40%;
+}
+
+img{
+    cursor: pointer;
+    padding: 35px;
+    border-radius: 100%;
+    width: 40%;
+}
